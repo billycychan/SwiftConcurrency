@@ -12,6 +12,7 @@
 		47561EAC2A624CF600B8851B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47561EAB2A624CF600B8851B /* Assets.xcassets */; };
 		47561EAF2A624CF600B8851B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47561EAE2A624CF600B8851B /* Preview Assets.xcassets */; };
 		47561EB62A624D1F00B8851B /* DoCatchTryThrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EB52A624D1F00B8851B /* DoCatchTryThrow.swift */; };
+		47561EB82A62553900B8851B /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EB72A62553900B8851B /* DownloadImageAsync.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		47561EAB2A624CF600B8851B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		47561EAE2A624CF600B8851B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		47561EB52A624D1F00B8851B /* DoCatchTryThrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrow.swift; sourceTree = "<group>"; };
+		47561EB72A62553900B8851B /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				47561EB52A624D1F00B8851B /* DoCatchTryThrow.swift */,
 				47561EAB2A624CF600B8851B /* Assets.xcassets */,
 				47561EAD2A624CF600B8851B /* Preview Content */,
+				47561EB72A62553900B8851B /* DownloadImageAsync.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47561EB82A62553900B8851B /* DownloadImageAsync.swift in Sources */,
 				47561EAA2A624CF500B8851B /* ContentView.swift in Sources */,
 				47561EA82A624CF500B8851B /* SwiftConcurrencyApp.swift in Sources */,
 				47561EB62A624D1F00B8851B /* DoCatchTryThrow.swift in Sources */,
