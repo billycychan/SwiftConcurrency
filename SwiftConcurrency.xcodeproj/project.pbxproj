@@ -13,6 +13,7 @@
 		47561EAF2A624CF600B8851B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47561EAE2A624CF600B8851B /* Preview Assets.xcassets */; };
 		47561EB62A624D1F00B8851B /* DoCatchTryThrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EB52A624D1F00B8851B /* DoCatchTryThrow.swift */; };
 		47561EB82A62553900B8851B /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EB72A62553900B8851B /* DownloadImageAsync.swift */; };
+		47561EBA2A65882D00B8851B /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EB92A65882D00B8851B /* AsyncAwait.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		47561EAE2A624CF600B8851B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		47561EB52A624D1F00B8851B /* DoCatchTryThrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrow.swift; sourceTree = "<group>"; };
 		47561EB72A62553900B8851B /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
+		47561EB92A65882D00B8851B /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +60,10 @@
 				47561EA72A624CF500B8851B /* SwiftConcurrencyApp.swift */,
 				47561EA92A624CF500B8851B /* ContentView.swift */,
 				47561EB52A624D1F00B8851B /* DoCatchTryThrow.swift */,
+				47561EB72A62553900B8851B /* DownloadImageAsync.swift */,
+				47561EB92A65882D00B8851B /* AsyncAwait.swift */,
 				47561EAB2A624CF600B8851B /* Assets.xcassets */,
 				47561EAD2A624CF600B8851B /* Preview Content */,
-				47561EB72A62553900B8851B /* DownloadImageAsync.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				47561EAA2A624CF500B8851B /* ContentView.swift in Sources */,
 				47561EA82A624CF500B8851B /* SwiftConcurrencyApp.swift in Sources */,
 				47561EB62A624D1F00B8851B /* DoCatchTryThrow.swift in Sources */,
+				47561EBA2A65882D00B8851B /* AsyncAwait.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
