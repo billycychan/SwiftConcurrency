@@ -17,6 +17,7 @@
 		47561EBC2A6596CB00B8851B /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EBB2A6596CB00B8851B /* TaskBootcamp.swift */; };
 		47561EBE2A65CD3000B8851B /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EBD2A65CD3000B8851B /* AsyncLet.swift */; };
 		47561EC02A65F17900B8851B /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EBF2A65F17900B8851B /* TaskGroupBootcamp.swift */; };
+		47561EC22A66054200B8851B /* CheckContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC12A66054200B8851B /* CheckContinuation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		47561EBB2A6596CB00B8851B /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 		47561EBD2A65CD3000B8851B /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		47561EBF2A65F17900B8851B /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
+		47561EC12A66054200B8851B /* CheckContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckContinuation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				47561EBB2A6596CB00B8851B /* TaskBootcamp.swift */,
 				47561EBD2A65CD3000B8851B /* AsyncLet.swift */,
 				47561EBF2A65F17900B8851B /* TaskGroupBootcamp.swift */,
+				47561EC12A66054200B8851B /* CheckContinuation.swift */,
 				47561EAB2A624CF600B8851B /* Assets.xcassets */,
 				47561EAD2A624CF600B8851B /* Preview Content */,
 			);
@@ -157,6 +160,7 @@
 			files = (
 				47561EB82A62553900B8851B /* DownloadImageAsync.swift in Sources */,
 				47561EAA2A624CF500B8851B /* ContentView.swift in Sources */,
+				47561EC22A66054200B8851B /* CheckContinuation.swift in Sources */,
 				47561EBE2A65CD3000B8851B /* AsyncLet.swift in Sources */,
 				47561EA82A624CF500B8851B /* SwiftConcurrencyApp.swift in Sources */,
 				47561EB62A624D1F00B8851B /* DoCatchTryThrow.swift in Sources */,
