@@ -19,6 +19,7 @@
 		47561EC02A65F17900B8851B /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EBF2A65F17900B8851B /* TaskGroupBootcamp.swift */; };
 		47561EC22A66054200B8851B /* CheckContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC12A66054200B8851B /* CheckContinuation.swift */; };
 		47561EC42A66105200B8851B /* StructClassActor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC32A66105200B8851B /* StructClassActor.swift */; };
+		47561EC62A66F35100B8851B /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC52A66F35100B8851B /* ActorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		47561EBF2A65F17900B8851B /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
 		47561EC12A66054200B8851B /* CheckContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckContinuation.swift; sourceTree = "<group>"; };
 		47561EC32A66105200B8851B /* StructClassActor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActor.swift; sourceTree = "<group>"; };
+		47561EC52A66F35100B8851B /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				47561EBF2A65F17900B8851B /* TaskGroupBootcamp.swift */,
 				47561EC12A66054200B8851B /* CheckContinuation.swift */,
 				47561EC32A66105200B8851B /* StructClassActor.swift */,
+				47561EC52A66F35100B8851B /* ActorsBootcamp.swift */,
 				47561EAB2A624CF600B8851B /* Assets.xcassets */,
 				47561EAD2A624CF600B8851B /* Preview Content */,
 			);
@@ -161,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47561EC62A66F35100B8851B /* ActorsBootcamp.swift in Sources */,
 				47561EB82A62553900B8851B /* DownloadImageAsync.swift in Sources */,
 				47561EC42A66105200B8851B /* StructClassActor.swift in Sources */,
 				47561EAA2A624CF500B8851B /* ContentView.swift in Sources */,
