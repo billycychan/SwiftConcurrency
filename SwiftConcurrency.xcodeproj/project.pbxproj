@@ -20,6 +20,7 @@
 		47561EC22A66054200B8851B /* CheckContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC12A66054200B8851B /* CheckContinuation.swift */; };
 		47561EC42A66105200B8851B /* StructClassActor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC32A66105200B8851B /* StructClassActor.swift */; };
 		47561EC62A66F35100B8851B /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC52A66F35100B8851B /* ActorsBootcamp.swift */; };
+		47561EC82A67164C00B8851B /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC72A67164C00B8851B /* GlobalActorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		47561EC12A66054200B8851B /* CheckContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckContinuation.swift; sourceTree = "<group>"; };
 		47561EC32A66105200B8851B /* StructClassActor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActor.swift; sourceTree = "<group>"; };
 		47561EC52A66F35100B8851B /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
+		47561EC72A67164C00B8851B /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				47561EC12A66054200B8851B /* CheckContinuation.swift */,
 				47561EC32A66105200B8851B /* StructClassActor.swift */,
 				47561EC52A66F35100B8851B /* ActorsBootcamp.swift */,
+				47561EC72A67164C00B8851B /* GlobalActorBootcamp.swift */,
 				47561EAB2A624CF600B8851B /* Assets.xcassets */,
 				47561EAD2A624CF600B8851B /* Preview Content */,
 			);
@@ -171,6 +174,7 @@
 				47561EC22A66054200B8851B /* CheckContinuation.swift in Sources */,
 				47561EBE2A65CD3000B8851B /* AsyncLet.swift in Sources */,
 				47561EA82A624CF500B8851B /* SwiftConcurrencyApp.swift in Sources */,
+				47561EC82A67164C00B8851B /* GlobalActorBootcamp.swift in Sources */,
 				47561EB62A624D1F00B8851B /* DoCatchTryThrow.swift in Sources */,
 				47561EBC2A6596CB00B8851B /* TaskBootcamp.swift in Sources */,
 				47561EBA2A65882D00B8851B /* AsyncAwait.swift in Sources */,
