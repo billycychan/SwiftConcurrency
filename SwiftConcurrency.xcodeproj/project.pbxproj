@@ -22,6 +22,7 @@
 		47561EC62A66F35100B8851B /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC52A66F35100B8851B /* ActorsBootcamp.swift */; };
 		47561EC82A67164C00B8851B /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC72A67164C00B8851B /* GlobalActorBootcamp.swift */; };
 		47561ECA2A68B58C00B8851B /* SendableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561EC92A68B58C00B8851B /* SendableBootcamp.swift */; };
+		47561ECC2A68BCE500B8851B /* AsyncPublisherBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561ECB2A68BCE500B8851B /* AsyncPublisherBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		47561EC52A66F35100B8851B /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
 		47561EC72A67164C00B8851B /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
 		47561EC92A68B58C00B8851B /* SendableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBootcamp.swift; sourceTree = "<group>"; };
+		47561ECB2A68BCE500B8851B /* AsyncPublisherBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				47561EC52A66F35100B8851B /* ActorsBootcamp.swift */,
 				47561EC72A67164C00B8851B /* GlobalActorBootcamp.swift */,
 				47561EC92A68B58C00B8851B /* SendableBootcamp.swift */,
+				47561ECB2A68BCE500B8851B /* AsyncPublisherBootCamp.swift */,
 				47561EAB2A624CF600B8851B /* Assets.xcassets */,
 				47561EAD2A624CF600B8851B /* Preview Content */,
 			);
@@ -172,6 +175,7 @@
 			files = (
 				47561EC62A66F35100B8851B /* ActorsBootcamp.swift in Sources */,
 				47561EB82A62553900B8851B /* DownloadImageAsync.swift in Sources */,
+				47561ECC2A68BCE500B8851B /* AsyncPublisherBootCamp.swift in Sources */,
 				47561EC42A66105200B8851B /* StructClassActor.swift in Sources */,
 				47561ECA2A68B58C00B8851B /* SendableBootcamp.swift in Sources */,
 				47561EAA2A624CF500B8851B /* ContentView.swift in Sources */,
