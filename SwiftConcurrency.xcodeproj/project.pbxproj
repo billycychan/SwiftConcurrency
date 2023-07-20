@@ -25,6 +25,7 @@
 		47561ECC2A68BCE500B8851B /* AsyncPublisherBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561ECB2A68BCE500B8851B /* AsyncPublisherBootCamp.swift */; };
 		47561ECE2A68F2E100B8851B /* StrongSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561ECD2A68F2E100B8851B /* StrongSelfBootcamp.swift */; };
 		47561ED02A69D50B00B8851B /* MVVMBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561ECF2A69D50B00B8851B /* MVVMBootcamp.swift */; };
+		47561ED22A69DCBB00B8851B /* RefreshableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47561ED12A69DCBB00B8851B /* RefreshableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		47561ECB2A68BCE500B8851B /* AsyncPublisherBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootCamp.swift; sourceTree = "<group>"; };
 		47561ECD2A68F2E100B8851B /* StrongSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongSelfBootcamp.swift; sourceTree = "<group>"; };
 		47561ECF2A69D50B00B8851B /* MVVMBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMBootcamp.swift; sourceTree = "<group>"; };
+		47561ED12A69DCBB00B8851B /* RefreshableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				47561ECB2A68BCE500B8851B /* AsyncPublisherBootCamp.swift */,
 				47561ECD2A68F2E100B8851B /* StrongSelfBootcamp.swift */,
 				47561ECF2A69D50B00B8851B /* MVVMBootcamp.swift */,
+				47561ED12A69DCBB00B8851B /* RefreshableBootcamp.swift */,
 				47561EAB2A624CF600B8851B /* Assets.xcassets */,
 				47561EAD2A624CF600B8851B /* Preview Content */,
 			);
@@ -185,6 +188,7 @@
 				47561EC42A66105200B8851B /* StructClassActor.swift in Sources */,
 				47561ECA2A68B58C00B8851B /* SendableBootcamp.swift in Sources */,
 				47561EAA2A624CF500B8851B /* ContentView.swift in Sources */,
+				47561ED22A69DCBB00B8851B /* RefreshableBootcamp.swift in Sources */,
 				47561EC22A66054200B8851B /* CheckContinuation.swift in Sources */,
 				47561EBE2A65CD3000B8851B /* AsyncLet.swift in Sources */,
 				47561ED02A69D50B00B8851B /* MVVMBootcamp.swift in Sources */,
